@@ -1,0 +1,1 @@
+Para se instalar o git deve baixar pelo site. no terminal basta colocar: git init.
