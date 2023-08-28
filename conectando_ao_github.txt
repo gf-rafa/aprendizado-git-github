@@ -1,0 +1,3 @@
+Para conectar ao github deve dar copiar o http do repositório e adcionar no terminal através do codigo:  git remote add origin "endereço do repositório".
+toda alteração dos arquivos nativos da maquina devem ser feito o push para o github: git push origin master
+se houver alteração nos arquivos remotos e para baixar para os nativos, deve ser feito o pull: git pull origin master.
