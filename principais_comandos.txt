@@ -1,0 +1,2 @@
+Os comandos principais:
+commit: git commit -m 'uma breve descrição da alteração'.
